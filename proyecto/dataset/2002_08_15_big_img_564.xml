@@ -1,0 +1,37 @@
+<annotation>
+    <folder>image</folder>
+    <filename>2002_08_15_big_img_564.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>319</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>188</xmin>
+            <ymin>10</ymin>
+            <xmax>356</xmax>
+            <ymax>263</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>337</xmin>
+            <ymin>138</ymin>
+            <xmax>450</xmax>
+            <ymax>319</ymax>
+        </bndbox>
+    </object>
+</annotation>

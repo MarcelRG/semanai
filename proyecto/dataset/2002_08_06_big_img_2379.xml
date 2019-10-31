@@ -1,0 +1,37 @@
+<annotation>
+    <folder>image</folder>
+    <filename>2002_08_06_big_img_2379.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>406</width>
+        <height>449</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>115</xmin>
+            <ymin>17</ymin>
+            <xmax>230</xmax>
+            <ymax>187</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>211</xmin>
+            <ymin>44</ymin>
+            <xmax>348</xmax>
+            <ymax>253</ymax>
+        </bndbox>
+    </object>
+</annotation>

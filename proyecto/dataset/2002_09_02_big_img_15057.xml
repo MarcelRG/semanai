@@ -1,0 +1,25 @@
+<annotation>
+    <folder>image</folder>
+    <filename>2002_09_02_big_img_15057.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>342</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>202</xmin>
+            <ymin>23</ymin>
+            <xmax>280</xmax>
+            <ymax>118</ymax>
+        </bndbox>
+    </object>
+</annotation>

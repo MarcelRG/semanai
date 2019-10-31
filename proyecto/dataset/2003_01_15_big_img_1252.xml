@@ -1,0 +1,25 @@
+<annotation>
+    <folder>image</folder>
+    <filename>2003_01_15_big_img_1252.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>265</width>
+        <height>409</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>82</xmin>
+            <ymin>14</ymin>
+            <xmax>174</xmax>
+            <ymax>159</ymax>
+        </bndbox>
+    </object>
+</annotation>

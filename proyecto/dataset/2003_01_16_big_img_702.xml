@@ -1,0 +1,37 @@
+<annotation>
+    <folder>image</folder>
+    <filename>2003_01_16_big_img_702.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>369</width>
+        <height>410</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>64</xmin>
+            <ymin>40</ymin>
+            <xmax>144</xmax>
+            <ymax>163</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Face</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>218</xmin>
+            <ymin>50</ymin>
+            <xmax>291</xmax>
+            <ymax>158</ymax>
+        </bndbox>
+    </object>
+</annotation>
